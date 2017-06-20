@@ -12,7 +12,7 @@
   },
   "exclude": [
     "node_modules",
-    "typings",
-    "typings/index.d.ts"
+//    "typings",
+//    "typings/index.d.ts"
   ]
 }
